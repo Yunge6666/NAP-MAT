@@ -10,7 +10,7 @@ The pipeline starts with an input image, goes through tokenization/patching, Hil
 
 ## **Evaluation**
 
-#### NAP
+### NAP
 
 NAP (Neighbor-aware Pruning) is a token pruning method. The code is inherited from **[EViT](https://github.com/youweiliang/evit)** and modified. Therefore the instructions used are the same.
 
@@ -33,7 +33,7 @@ The following results are without fine-tuning after applying NAP, and are evalua
 
 Try different R and a and you might get better results! 
 
-#### HyNAP
+### HyNAP
 
 HyNAP (Hybrid NAP) is inherited from **[DiffRate](https://github.com/OpenGVLab/DiffRate)** and modified. The instructions used are the same as DiffRate.
 
@@ -53,7 +53,7 @@ The following results are without fine-tuning after applying HyNAP, and evaluate
 | DeiT-B/224 | 11.5G | 2 | 0.1 |   81.5   |           387           |
 | DeiT-B/224 | 8.7G | 2 | 0.2 |   79.3   |           504           |
 
-#### MAT
+### MAT
 
 MAT (Merging Adjacent Tokens) is a token merging method, and the code is inherited from **[ToMe](https://github.com/facebookresearch/ToMe)** and modified. So the prerequisites and usage are the same as ToMe.
 
