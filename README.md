@@ -63,8 +63,8 @@ The following results are without fine-tuning after applying MAT, and evaluated 
 | :---------: | :---: | :-: | :-------: | :----------------------: |
 | ViT-L (MAE) | 61.6G | 0 |   85.7   |            89            |
 | ViT-L (MAE) | 31.0G | 8 |   83.6   |           161           |
-| ViT-H (MAE) | 34.7G | 7 |   84.5   |           150           |
-| ViT-H (MAE) | 38.5G | 6 |   85.0   |           134           |
+| ViT-L (MAE) | 34.7G | 7 |   84.5   |           150           |
+| ViT-L (MAE) | 38.5G | 6 |   85.0   |           134           |
 | ViT-L (MAE) | 42.3G | 5 |   85.3   |           125           |
 | ViT-L (MAE) | 46.2G | 4 |   85.6   |           113           |
 | ViT-L (MAE) | 50.0G | 3 |   85.7   |           104           |
